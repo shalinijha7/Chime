@@ -1,3 +1,7 @@
 # Quote-Generator
-This is a random quote generator webpage created using HTML,CSS,JavaScript.It has feature of generating random quotes using quote generator api. Also in this copying and adding to twitter feature is also added.Along with this a voice utterence system is also there.
+•	It is a random quote generator crafted through the integration of HTML, CSS, and Vanilla JS.
+•	Utilizes a publicly available Quote Generator API to dynamically generate a diverse range of quotes.
+•	This application offers the capability to vocalize the generated quotes, along with features facilitating easy copying and instant sharing through tweets, enhancing the overall user experience.
+•	Utilizes CSS to create an engaging and visually appealing interface that ensures a pleasant user experience.
+
 
