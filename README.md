@@ -9,4 +9,4 @@
 ![Quote-Generator](https://github.com/shalinijha7/Quote-Generator/assets/81086975/423959a1-87f4-4a4a-8b3e-046f374369d2)
 
 *Link to the website* 
-🔗https://shalinijha7.github.io/Quote-Generator/
+🔗https://shalinijha7.github.io/Chime/
